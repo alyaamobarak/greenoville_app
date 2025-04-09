@@ -99,7 +99,7 @@ Greenoville offers a user-friendly interface packed with curated information, ex
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/HeshamQutb/greenoville_app.git
+   git clone https://github.com/alyaamobarak/greenoville_app.git
    ```
 2. Install dependencies:
    ```bash
