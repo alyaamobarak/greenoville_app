@@ -112,4 +112,4 @@ Greenoville offers a user-friendly interface packed with curated information, ex
 
 ## Contact
 
-For questions, feedback, or collaboration opportunities, please contact [Hesham Qutb](mailto:heshamsaker9@gmail.com).
+For questions, feedback, or collaboration opportunities, please contact [alyaa](mailto:ama789238@gmail.com).
